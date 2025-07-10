@@ -30,6 +30,7 @@ ol{
 #grid #article{
     padding-left:30px;
 }
+
 @media(max-width:670px){
     #grid{
         display:block;
